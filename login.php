@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +10,7 @@
 <body>
     <div class="container">
         
-        <form action="loginprocess.php" method="post">
+        <form action="index.php" method="post">
             <label for="Sign in">Please Login</label>
             <input type="text" name="username"  placeholder="Enter Username">
             <input type="password" name="password" placeholder="Enter Password">
